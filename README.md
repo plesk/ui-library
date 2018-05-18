@@ -1,4 +1,4 @@
-Plesk UI Library is a JavaScript component library based on react.js. It is intended for creating web interfaces for Plesk and other internal products.
+Plesk UI Library is a JavaScript component library based on [React.js](https://reactjs.org). It is intended for creating web interfaces for Plesk and other internal products.
 
 
 API References
